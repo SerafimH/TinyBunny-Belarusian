@@ -34,3 +34,10 @@
 - папку: <папка гульні>\game\tl\belarusian\
 - файлы: <папка гульні>\game\scripts\sys\tl_settings\sys_belarusian.rpy
          <папка гульні>\game\scripts\sys\tl_settings\sys_belarusian.rpyc
+
+---
+
+> _**BY:** Пераклад выкананы з дапамогай Gemini, таму магчымыя асобныя памылкі._  
+> _**RU:** Перевод выполнен с помощью Gemini, поэтому возможны отдельные ошибки._  
+> _**EN:** Translated with the help of Gemini, so occasional mistakes may occur._
+
