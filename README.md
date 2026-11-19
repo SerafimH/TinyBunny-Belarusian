@@ -38,6 +38,6 @@
 ---
 
 **BY:** Пераклад выкананы з дапамогай Gemini, таму магчымыя асобныя памылкі. 
-**RU:** Перевод выполнен с помощью Gemini, поэтому возможны отдельные ошибки._  
-**EN:** Translated with the help of Gemini, so occasional mistakes may occur._
+**RU:** Перевод выполнен с помощью Gemini, поэтому возможны отдельные ошибки.
+**EN:** Translated with the help of Gemini, so occasional mistakes may occur.
 
